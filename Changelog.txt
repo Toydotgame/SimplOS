@@ -1,0 +1,13 @@
+SimplOS Version Beta 2.0.0 Changelog:
+
+Features:
+- Light and dark themed HD backgrounds (Used under Creative Commons BY-ND 2.0 (Source: https://wallpaperhub.app/wallpapers/5512))
+- Light and dark themes
+- App launcher menu
+- About section
+- Password changer
+- System reset button
+
+Features that will come soon:
+- Settings that save to someone's username
+- More apps
