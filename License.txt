@@ -1,7 +1,13 @@
-SimplOS is free-to-use and mark as your own work.
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
 
-Please refore to README.md in the master branch of the repo for more info on this.
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
-There is no licesnce any more, just use it, say you made it, whatever, this project is no longer needed to TSL.
+ Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
 
-Have fun!
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
